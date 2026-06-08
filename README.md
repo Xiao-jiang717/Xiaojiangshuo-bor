@@ -173,18 +173,19 @@
 
 </div>
 
-<!-- ===================== 贡献贪吃蛇动画 ===================== -->
+<!-- ===================== 3D 立体贡献图 ===================== -->
 <!--
-  Snake 动画需配合 GitHub Action 生成（每日自动更新）：
-  在仓库新建 .github/workflows/snake.yml，使用 Platane/snk 生成
-  output/github-contribution-grid-snake-dark.svg 后即可显示。
-  Action 未配置前此图不显示，不影响其他板块。
+  ⚠️ 此 3D 图不是实时在线图，必须由 .github/workflows/profile-3d.yml 这个
+     GitHub Action 先成功运行一次，把 SVG 生成到 profile-3d-contrib/ 目录
+     （提交回默认分支）后才会显示。
+     在 Action 跑通前（含本地预览），此处会是裂图，属正常现象。
+     跑通步骤见对话中的指引。
 -->
 <div align="center">
 
-### 🐍 贡献轨迹 · Contribution Snake
+### 🌆 贡献轨迹 · 3D Contribution Skyline
 
-<img alt="Snake animation" src="https://raw.githubusercontent.com/Xiao-jiang717/Xiao-jiang717/output/github-contribution-grid-snake-dark.svg" />
+<img width="90%" alt="3D 立体贡献图" src="https://raw.githubusercontent.com/Xiao-jiang717/Xiao-jiang717/main/profile-3d-contrib/profile-season-animate.svg" />
 
 </div>
 
