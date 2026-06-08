@@ -1,26 +1,119 @@
-<h1 align=“center”>你好👋，我是小江硕bor</h1>
-<h3 align=“center”>印度热情的前端开发者</h3>
+<div align="center">
 
-<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=xiaojiangshuo-bor&label=Profile%20views&color=0e75b6&style=flat” alt=“xiaojiangshuo-bor” /> </p>
+<!-- 打字机动画 -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=58A6FF&background=161B22&center=true&vCenter=true&width=600&height=45&lines=Artificial+Intelligence+Student;AI+%E4%BA%BA%E5%AD%A6%E5%9C%A8%E7%94%9F%E5%9C%A8%E4%B8%9A%E7%94%9F;Focus+on+Multimodal+Learning+%26+Fake+News+Detection;Deep+Learning+%7C+Machine+Learning+%7C+Open+Source" alt="Typing SVG" />
 
-<p align=“left”> <a href=“https://github.com/ryo-ma/github-profile-trophy”><img src=“https://github-profile-trophy.vercel.app/?username=xiaojiangshuo-bor” alt=“xiaojiangshuo-bor” /></a> </p>
+</div>
 
-- 🌱 我正在学习 **Agent**
+<div align="center">
+    <h1>🧠 AI 专业本科生 | 多模态学习研究者</h1>
+</div>
 
-- 💬 问我关于 **AI、LLM、深度学习**
+---
 
-- 📫 如何联系我 **19394268848@163.com**<
+<div align="center">
 
-h3 align=“left”>与我联系：</h3>
-<p align=“left”>
-<a href=“https://kaggle.com/ 小江硕bor” target=“blank”><img align=“center” src=“https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg” alt=“小江硕bor” height=“30” width=“40” /></a>
-</p>
+## 🧩 个人简介
+**人工智能专业在读本科生**
+主攻方向：**多模态学习、虚假新闻检测、内容安全**
+日常：深度学习实验、模型训练、论文复现、代码工程化
+目标：成为具备科研能力 + 工程能力的 AI 从业者
 
-<h3 align=“left”>Languages and Tools：</h3>
-<p align=“left”> <a href=“https://developer.android.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg” alt=“android” width=“40” height=“40”/> </a吗> <a href=“https://appwrite.io” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg” alt=“appwrite” width=“40” height=“40” / > </a吗> <a href=“https://www.chartjs.org” target=“_blank” rel=“noreferrer”> <img src=“https://www.chartjs.org/media/logo-title.svg” alt=“chartjs” width=“40” height=“40”/> </a吗> <a href=“https://www.w3schools.com/css/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg” alt=“css3” width=“40” height=“40”/> </a吗> <a href=“https://www.djangoproject.com/” target=“_blank” rel=“noreferrer”> <img src=“https://cdn.worldvectorlogo.com/logos/django.svg” alt=“django” width=“40” height=“40”/> </a吗> <a href=“https://firebase.google.com/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg” alt=“firebase” width=“40” height=“40” / > </a吗> <a href=“https://www.w3.org/html/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg” alt=“html5” width=“40” height=“40”/> </a吗> <a href=“https://www.adobe.com/in/products/illustrator.html” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg” alt=“illustrator” width=“40” height=“40”/> </a吗> <a href=“https://www.linux.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg” alt=“linux” width=“40” height=“40” / > </a吗> <a href=“https://www.mathworks.com/” target=“_blank” rel=“noreferrer”> <img src=“https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png“ alt=”matlab“ width=”40“ height=”40“/> </a吗> <a href=“https://www.microsoft.com/en-us/sql-server” target=“_blank” rel=“noreferrer”> <img src=“https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg” alt=“mssql” width=“40” height=“40”/> </a吗> <a href=“https://www.mysql.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg” alt=“mysql” width=“40” height=“40”/> </a吗> <a href=“https://nodejs.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg” alt=“nodejs” width=“40” height=“40”/> </a吗> <a href=“https://opencv.org/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg” alt=“opencv” width=“40” height=“40” = “40”/> </a吗> <a href=“https://pandas.pydata.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg” alt=“pandas” width=“40” height=“40” height=“40”/> </a吗> <a href=“https://pytorch.org/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg” alt=“pytorch” width=“40” height=“40” / > </a吗> <a href=“https://scikit-learn.org/” target=“_blank” rel=“noreferrer”> <img src=“https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg” alt=“scikit_learn” width=“40” height=“40” height=“40”/> </a吗> <a href=“https://seaborn.pydata.org/” target=“_blank” rel=“noreferrer”> <img src=“https://seaborn.pydata.org/_images/logo-mark-lightbg.svg” alt=“seaborn” width=“40” height=“40” height=“40”/> </a吗> <a href=“https://www.tensorflow.org” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg” alt=“tensorflow” width=“40” height=“40”/> </a吗> <a href=“https://webpack.js.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg” alt=“webpack” width=“40” height=“40”/> </a吗> </p>
+</div>
 
-<p><img align=“left” src=“https://github-readme-stats.vercel.app/api/top-langs?username=xiaojiangshuo-bor&show_icons=true&locale=en&layout=compact” alt=“xiaojiangshuo-bor” /></p>
+---
 
-<p>&nbsp;<img align=“中心” src=“https://github-readme-stats.vercel.app/api?username=xiaojiangshuo-bor&show_icons=true&locale=en” alt=“小江朔博” /></p>
+<div align="center">
 
-<p><img align=“中心” src=“https://github-readme-streak-stats.herokuapp.com/?user=xiaojiangshuo-bor&” alt=“小江朔博” /></p>
+## 🛠️ 技术栈体系
+### 🔹 编程语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+### 🔹 AI 框架与库
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+### 🔹 开发工具
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🔹 运行环境
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📌 研究方向标签
+`多模态学习` `深度学习` `计算机视觉` `自然语言处理`
+`虚假新闻检测` `内容安全` `机器学习` `模型部署`
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub 数据统计
+<img width="480" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<br/>
+<img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub 成就奖杯
+<img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 动态贡献图
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 学习进度
+- 深度学习基础：▓▓▓▓▓▓▓▓▓▓ 100%
+- 多模态模型：▓▓▓▓▓▓▓▓░░ 80%
+- 论文阅读与复现：▓▓▓▓▓▓▓░░░ 70%
+- 模型部署工程化：▓▓▓▓▓░░░░░ 50%
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 联系方式
+- GitHub：https://github.com/你的用户名
+- 研究方向：多模态学习、虚假新闻检测
+- 邮箱：可在此填写你的邮箱
+
+</div>
+
+---
+
+<div align="center">
+    <h4>🎓 持续学习 | 持续探索 | 保持热爱</h4>
+    <img src="https://profile-counter.glitch.me/你的用户名/count.svg" />
+</div>
