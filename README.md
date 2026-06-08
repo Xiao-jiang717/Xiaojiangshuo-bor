@@ -159,8 +159,13 @@
 ### 📊 数据统计 · GitHub Stats
 
 <!-- GitHub 总览卡片 + 语言统计：统一锁定 0D1117 暗色背景 -->
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xiao-jiang717&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-jiang717&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
+<!--
+  说明：以下卡片来自公共实例 github-readme-stats.vercel.app，
+  高峰期偶发限流(429)会导致短暂裂图，刷新即可恢复，属正常现象。
+  已加 cache_seconds 提升缓存命中、降低限流概率。
+-->
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Xiao-jiang717&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao-jiang717&layout=compact&hide_border=true&cache_seconds=86400&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
 
 <!-- 连续提交统计 -->
 <img width="500" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Xiao-jiang717&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" />
